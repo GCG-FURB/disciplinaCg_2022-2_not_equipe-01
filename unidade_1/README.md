@@ -18,4 +18,4 @@ Pontos negativos:
 
 - explicado um pouco mais sobre o uso do BluePrint, mas OK  
 - explicado um pouco mais como usar na IDE (VSCode ou VS), mas OK  
-- explicar um pouco mais do uso do C++,mas OK  
+- explicar um pouco mais do uso do C++, mas OK  
